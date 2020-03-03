@@ -1,0 +1,6 @@
+C:\Users\3.D\source\repos\ŠimetićNikProvjeraZnanjaZadatak2\bin\Debug\ŠimetićNikProvjeraZnanjaZadatak2.exe.config
+C:\Users\3.D\source\repos\ŠimetićNikProvjeraZnanjaZadatak2\bin\Debug\ŠimetićNikProvjeraZnanjaZadatak2.exe
+C:\Users\3.D\source\repos\ŠimetićNikProvjeraZnanjaZadatak2\bin\Debug\ŠimetićNikProvjeraZnanjaZadatak2.pdb
+C:\Users\3.D\source\repos\ŠimetićNikProvjeraZnanjaZadatak2\obj\Debug\ŠimetićNikProvjeraZnanjaZadatak2.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\ŠimetićNikProvjeraZnanjaZadatak2\obj\Debug\ŠimetićNikProvjeraZnanjaZadatak2.exe
+C:\Users\3.D\source\repos\ŠimetićNikProvjeraZnanjaZadatak2\obj\Debug\ŠimetićNikProvjeraZnanjaZadatak2.pdb
